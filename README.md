@@ -39,7 +39,7 @@ That it! You now have the output. All you have to do is to clean the output howe
 
 Raw Text - THE//CEe//MAGAZINE//TECH//ISSUE//INSPIRING THE BUSINESS WORLD//30//INSPIRE//PAGES ON//SIR JAMES DYSON://BUILDING A//THE #1 SECRET TO//WORKFORCE//HIS SUCCESS//FOR THE FUTURE//YUVAL NOAH HARARI://EDUCATION IN THE//AGE OF AI//DR MICHIO KAKU://HIS VISION FOR//FROM BEES//TOMORROW//TO BEZOS//PROTECTING//HUMANKIND//FROM THE RISE//OF THE ROBOTS//ELON//MUSK//THE EXTRAORDINARY//CORPORATE DISRUPTER//{//3//AND BREATHE//3//THE WORLD'S BEST SPAS
 
-I applied some algorithms to this for sequencing the recognitions to form sentences so that they actually mean something. Originally detections are just in sequence such that top left is first and bottom right is last, which is fine for one paragraph, but when texts are in coloums like in IEEE papers or Newspapers, that recognitions wont make any sense after a point. So those algorithms are applied.
+I have applied some algorithms to this for sequencing the recognitions to form sentences so that they actually mean something. Originally detections are just in sequence such that top left is first and bottom right is last, which is fine for one paragraph, but when texts are in coloums like in IEEE papers or Newspapers, that recognitions wont make any sense after a point. So those algorithms are applied.
 
 
 Sequenced Text - "CEe//INSPIRING THE BUSINESS WORLD//INSPIRE//SIR JAMES DYSON://THE #1 SECRET TO//HIS SUCCESS//YUVAL NOAH HARARI://EDUCATION IN THE//AGE OF AI//DR MICHIO KAKU://HIS VISION FOR//TOMORROW//{//3//3//MAGAZINE//ELON//MUSK//THE EXTRAORDINARY//CORPORATE DISRUPTER//MAGAZINE//ELON//MUSK//THE EXTRAORDINARY//CORPORATE DISRUPTER"
@@ -48,5 +48,5 @@ Sequenced Text - "CEe//INSPIRING THE BUSINESS WORLD//INSPIRE//SIR JAMES DYSON://
 Final Text - CEe INSPIRING THE BUSINESS WORLD INSPIRE SIR JAMES DYSON: THE #1 SECRET TO HIS SUCCESS YUVAL NOAH HARARI: EDUCATION IN THE AGE OF AI DR MICHIO KAKU: HIS VISION FOR TOMORROW { 3 3 MAGAZINE ELON MUSK THE EXTRAORDINARY CORPORATE DISRUPTER MAGAZINE ELON MUSK THE EXTRAORDINARY CORPORATE DISRUPTER
 
 
-## Conclusion
-This is not the end of this repository. I would learn other things and put them here. I have used EAST Model and Pytesseract, and did not get satisfactory results. So I switched to this.
+## End
+This is not the end of this repository. I would learn other things and put them here. I have used EAST Model and Pytesseract, and did not get satisfactory results. So I switched to this. 
