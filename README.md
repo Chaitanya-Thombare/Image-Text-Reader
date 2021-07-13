@@ -40,17 +40,13 @@ Raw Text - THE//CEe//MAGAZINE//TECH//ISSUE//INSPIRING THE BUSINESS WORLD//30//IN
 
 I have applied some algorithms to this for sequencing the recognitions to form sentences so that they actually mean something. Originally detections are just in sequence such that top left is first and bottom right is last, which is fine for one paragraph, but when texts are in coloums like in IEEE papers or Newspapers, that recognitions wont make any sense after a point. So those algorithms are applied.
 
-
 Sequenced Text - "CEe//INSPIRING THE BUSINESS WORLD//INSPIRE//SIR JAMES DYSON://THE #1 SECRET TO//HIS SUCCESS//YUVAL NOAH HARARI://EDUCATION IN THE//AGE OF AI//DR MICHIO KAKU://HIS VISION FOR//TOMORROW//{//3//3//MAGAZINE//ELON//MUSK//THE EXTRAORDINARY//CORPORATE DISRUPTER//MAGAZINE//ELON//MUSK//THE EXTRAORDINARY//CORPORATE DISRUPTER"
 
-
-Final Text - CEe INSPIRING THE BUSINESS WORLD INSPIRE SIR JAMES DYSON: THE #1 SECRET TO HIS SUCCESS YUVAL NOAH HARARI: EDUCATION IN THE AGE OF AI DR MICHIO KAKU: HIS VISION FOR TOMORROW { 3 3 MAGAZINE ELON MUSK THE EXTRAORDINARY CORPORATE DISRUPTER MAGAZINE ELON MUSK THE EXTRAORDINARY CORPORATE DISRUPTER
-
 <img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image4.jpg" width="400">
-<img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image4.jpg" width="400">
+<img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image_5.jpg" width="400">
 
-The recognitions are here[a link](https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_text_4.txt)
-
+The recognitions to this image are [here](https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_text_4.txt)
+#### Note - The recognitions is a list of text strings. The '//' is used for my reference. It can be replaced be " " and would give output like texts we usually read.
 
 ## End
 This is not the end of this repository. I would learn other things and put them here. I have used EAST Model and Pytesseract, and did not get satisfactory results. So I switched to this. 
