@@ -34,7 +34,6 @@ That it! You now have the output. All you have to do is to clean the output howe
 ## Example Output
 
 <img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/OCR9.jpg" width="400">
-
 <img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image.jpg" width="400">
 
 Raw Text - THE//CEe//MAGAZINE//TECH//ISSUE//INSPIRING THE BUSINESS WORLD//30//INSPIRE//PAGES ON//SIR JAMES DYSON://BUILDING A//THE #1 SECRET TO//WORKFORCE//HIS SUCCESS//FOR THE FUTURE//YUVAL NOAH HARARI://EDUCATION IN THE//AGE OF AI//DR MICHIO KAKU://HIS VISION FOR//FROM BEES//TOMORROW//TO BEZOS//PROTECTING//HUMANKIND//FROM THE RISE//OF THE ROBOTS//ELON//MUSK//THE EXTRAORDINARY//CORPORATE DISRUPTER//{//3//AND BREATHE//3//THE WORLD'S BEST SPAS
@@ -46,6 +45,11 @@ Sequenced Text - "CEe//INSPIRING THE BUSINESS WORLD//INSPIRE//SIR JAMES DYSON://
 
 
 Final Text - CEe INSPIRING THE BUSINESS WORLD INSPIRE SIR JAMES DYSON: THE #1 SECRET TO HIS SUCCESS YUVAL NOAH HARARI: EDUCATION IN THE AGE OF AI DR MICHIO KAKU: HIS VISION FOR TOMORROW { 3 3 MAGAZINE ELON MUSK THE EXTRAORDINARY CORPORATE DISRUPTER MAGAZINE ELON MUSK THE EXTRAORDINARY CORPORATE DISRUPTER
+
+<img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image4.jpg" width="400">
+<img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image4.jpg" width="400">
+
+The recognitions are here[a link](https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_text_4.txt)
 
 
 ## End
