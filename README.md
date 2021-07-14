@@ -1,4 +1,4 @@
-# OCR-Text_Extraction
+# OCR-Text Detection and Recognition
 ---
 ## Introduction
 This repository is to detect and recognize text in the images. For now, this repository uses EasyOCR, which provides very good results, both in detection and recognition. I would be adding other models for detection and recognition as I go on learning about them.
