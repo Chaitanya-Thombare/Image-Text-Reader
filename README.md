@@ -46,7 +46,4 @@ Sequenced Text - "CEe//INSPIRING THE BUSINESS WORLD//INSPIRE//SIR JAMES DYSON://
 <img src="https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_image_5.jpg" width="400">
 
 The recognitions to this image are [here](https://github.com/Chaitanya-Thombare/Optical-Character-Detection-and-Recognition/blob/main/Images%20and%20Output/PDF_text_4.txt)
-#### Note - The recognitions is a list of text strings. The '//' is used for my reference. It can be replaced be " " and would give output like texts we usually read.
-
-## End
-This is not the end of this repository. I would learn other things and put them here. I have used EAST Model and Pytesseract, and did not get satisfactory results. So I switched to this. 
+#### Note - The recognitions is a list of text strings. The '//' is used for my reference. It can be replaced be " " and would give output like texts we usually read. 
